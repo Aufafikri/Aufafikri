@@ -6,6 +6,10 @@
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@Aufafkri)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/bdrx19/)
 
+<h2>Hello There 👋,</h2>
+
+<p>I am a software engineer, I have entered or started a career in the world of software engineering in 2021</p>
+
 <h2>Here's a list of my tech stack and skills:</h2>
 
 <h2>Frontend</h2>
