@@ -1,6 +1,3 @@
-<h1>Hi 👋, I'm Aufa Al Fikri Ilmi</h1>
-<h3>A passionate fullstack developer from Indonesia</h3>
-
 ![Aufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aufafikri&hide=contribs,prs)
 
 <h3 align="left">Connect with me:</h3>
@@ -9,7 +6,7 @@
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@Aufafkri)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/bdrx19/)
 
-Here's a list of my tech stack and skills:
+<h2>Here's a list of my tech stack and skills:</h2>
 
 <h2>Frontend</h2>
 
