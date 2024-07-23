@@ -12,7 +12,7 @@
 
 <h2>Here's a list of my tech stack and skills:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&hide=HTML&theme=tokyonight)
 
 <h2>Frontend</h2>
 
