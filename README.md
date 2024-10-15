@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&hide=HTML&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&hide=HTML&HandleBarslayout=compact)
 
 <h2>Frontend</h2>
 
