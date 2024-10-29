@@ -14,7 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aufafikri&hide=html,handlebars,CSS&layout=compact&theme=tokyonight)
 
-
 <h2>Frontend</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
