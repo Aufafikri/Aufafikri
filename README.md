@@ -1,4 +1,4 @@
-![Aufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aufafikri)
+![Aufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aufafikri&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 
